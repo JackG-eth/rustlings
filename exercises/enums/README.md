@@ -8,3 +8,8 @@ Useful in combination with enums is Rust's "pattern matching" facility, which ma
 
 - [Enums](https://doc.rust-lang.org/book/ch06-00-enums.html)
 - [Pattern syntax](https://doc.rust-lang.org/book/ch18-03-pattern-syntax.html)
+
+## Notes
+
+-- Enums are a little more tricky, just need to learn the syntax
+-- Can pass it a matching quote to enforce the variable is of the correct type (Enum)
