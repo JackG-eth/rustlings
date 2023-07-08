@@ -1,0 +1,1 @@
+/Users/jack/Documents/rustlings/target/release/rustlings: /Users/jack/Documents/rustlings/src/exercise.rs /Users/jack/Documents/rustlings/src/main.rs /Users/jack/Documents/rustlings/src/project.rs /Users/jack/Documents/rustlings/src/run.rs /Users/jack/Documents/rustlings/src/ui.rs /Users/jack/Documents/rustlings/src/verify.rs

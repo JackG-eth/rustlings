@@ -1,0 +1,12 @@
+/Users/jack/Documents/rustlings/target/release/deps/notify-83535894233289f7.rmeta: /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/fsevent.rs /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/Users/jack/Documents/rustlings/target/release/deps/libnotify-83535894233289f7.rlib: /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/fsevent.rs /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/Users/jack/Documents/rustlings/target/release/deps/notify-83535894233289f7.d: /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/fsevent.rs /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs:
+/Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/fsevent.rs:
+/Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs:
+/Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs:
+/Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs:
+/Users/jack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs:
