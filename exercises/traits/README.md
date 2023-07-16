@@ -17,3 +17,6 @@ Because traits indicate shared behavior between data types, they are useful when
 ## Further information
 
 - [Traits](https://doc.rust-lang.org/book/ch10-02-traits.html)
+
+by passing impl as a var we can enforce at compile time that objects calling that method inherit the trait.
+I really nice feature is that you can also chooose to pass in multipl traits.
