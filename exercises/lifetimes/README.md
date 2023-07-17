@@ -20,3 +20,9 @@ learning to write lifetime annotations.
 
 - [Lifetimes (in Rust By Example)](https://doc.rust-lang.org/stable/rust-by-example/scope/lifetime.html)
 - [Validating References with Lifetimes](https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html)
+
+## Intersting Concept
+
+- Fairly unique, have not have to declare lifetimes before,
+- Its how we tell the compiler to check whether a specific variable wil live long enough for the timeline we've designed.
+- It's only necessary on borrows since copied variables have their own scope.
